@@ -1,0 +1,45 @@
+composer global require Laravel/installer 
+// Laravel new first 
+// composer create-project --prefer-dist Laravel/Laravel blog "6.*"
+
+http://localhost/phpmyadmin/index.php
+
+php artisan make:controller ControllerName -r
+
+php artisan make:migration 
+php artisan make:model --migration
+php artisan migrate
+
+<link rel="stylesheet" href="{{ url('css/style.css') }}"> //inside folder public
+window.location.href = respronse.route('admin.dashboard');
+
+
+
+npm install 
+npm run build
+php artisan optimize
+npm run dev 
+npm run production 
+php artisan cashe:clear
+php artisan config:clear
+php artisan view:clear
+npm install
+Set-ExecutionPolicy RemoteSigned -Scope Process   foooor npm 
+npm run dev 
+composer install
+php artisan key:generate
+php artisan config:clear
+php artisan session:table
+php artisan migrate
+
+
+
+git fetch origin main:tmp
+git rebase tmp
+
+
+composer create-project codeigniter4/appstarter project-root
+.env    development
+php spark serve 
+app.baseURL = 'http://localhost:8080/'
+

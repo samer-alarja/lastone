@@ -1,6 +1,6 @@
 composer global require Laravel/installer 
-// Laravel new first 
-// composer create-project --prefer-dist Laravel/Laravel blog "6.*"
+/ Laravel new first
+/ composer create-project --prefer-dist Laravel/Laravel blog "6.*"
 
 http://localhost/phpmyadmin/index.php
 
